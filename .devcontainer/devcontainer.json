@@ -1,0 +1,6 @@
+{
+  "name": "@appName@",
+  "image": "hayd/debian-deno",
+  "forwardPorts": [8000],
+  "extensions": ["denoland.vscode-deno"]
+}
